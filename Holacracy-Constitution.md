@@ -20,7 +20,7 @@ A Role may also contain **_“Policies”_**, which are grants or constraints of
 
 ### 1.2 Role Assignment
 
-Whoever controls assignments to a Role may assign people to fill that Role and may revoke the assignment at any time. Anyone so assigned becomes the ***"Role Lead"*** for that Role, unless otherwise specified by a rule in this Constitution or a relevant Policy. A Role may be assigned to multiple people simultaneously.
+Whoever controls assignments to a Role may assign Partners and external parties to fill that Role and may revoke the assignment at any time. Anyone so assigned becomes the ***"Role Lead"*** for that Role, unless otherwise specified by a rule in this Constitution or a relevant Policy. A Role may be assigned to multiple Partners and external parties simultaneously.
 
 #### 1.2.1 Eligibility
 
@@ -32,7 +32,7 @@ Whoever controls assignments to a Role may further focus an assignment on just a
 
 #### 1.2.3 Supporting Assignments
 
-When multiple people are assigned to fill a Role with no focus or within the same focus, then the Role assigner may designate some of those assignees as a ***Role Supporter*** instead of a Role Lead. A Role Supporter gains most of the authorities of a Role-filler, but only holds the duties of a Role-filler when requested by a Role Lead, as further detailed in Article 2.
+When multiple Partners and external parties are assigned to fill a Role with no focus or within the same focus, then the Role assigner may designate some of those assignees as a ***Role Supporter*** instead of a Role Lead. A Role Supporter gains most of the authorities of a Role-filler, but only holds the duties of a Role-filler when requested by a Role Lead, as further detailed in Article 2.
 
 #### 1.2.4 Resigning from Roles
 
